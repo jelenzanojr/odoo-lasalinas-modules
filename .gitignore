@@ -1,0 +1,28 @@
+# Ignore Python cache files and folders
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Odoo generated files
+*.log
+*.db
+*.sqlite3
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
+.env.*
+views/tema.xml.back
+
+# Ignore compiled files
+*.egg-info/
+dist/
+build/
+*.egg
+**/*.*Zone.Identifier
+**/*.*bak
+# Ignore OS files
